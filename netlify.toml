@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+# No build command required for this static project; configure in Netlify UI if you prefer a build step.
