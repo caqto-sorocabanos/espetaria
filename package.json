@@ -1,12 +1,12 @@
 {
   "name": "loja-exemplo",
-  "version": "2.0.0",
-  "description": "Projeto de loja com integra\u00e7\u00e3o ao Notion e corre\u00e7\u00f5es de erros de deploy",
+  "version": "3.0.0",
+  "description": "Loja exemplo integrada ao Notion - debug ativado",
   "scripts": {
     "build": "echo 'No build required'",
     "start": "npx serve -s ."
   },
   "engines": {
-    "node": ">=18"
+    "node": "18.x"
   }
 }
